@@ -59,7 +59,7 @@ The best way to debug your assembly code is to take `out/shellcode.exe` file and
 
 Finally you should run `out/malware.exe` to be sure that your payload works as intended after memory injection.
 
-```sh
+```nasm
 ██████╗ ███╗   ██╗███████╗███████╗ ██████╗
 ██╔═████╗████╗  ██║██╔════╝██╔════╝██╔════╝
 ██║██╔██║██╔██╗ ██║███████╗█████╗  ██║     
