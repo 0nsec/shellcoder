@@ -58,3 +58,12 @@ _start:
 The best way to debug your assembly code is to take `out/shellcode.exe` file and load it into your favorite debugger.
 
 Finally you should run `out/malware.exe` to be sure that your payload works as intended after memory injection.
+
+```sh
+██████╗ ███╗   ██╗███████╗███████╗ ██████╗
+██╔═████╗████╗  ██║██╔════╝██╔════╝██╔════╝
+██║██╔██║██╔██╗ ██║███████╗█████╗  ██║     
+████╔╝██║██║╚██╗██║╚════██║██╔══╝  ██║     
+╚██████╔╝██║ ╚████║███████║███████╗╚██████╗
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝
+```
