@@ -1,4 +1,4 @@
-; Author: Print3M (https://print3m.github.io/)
+; Author: Print3M (https:/https://github.com/0nsec/)
 ;
 ; This code just runs "calc.exe" without any external dependencies.
 ;
