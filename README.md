@@ -4,7 +4,7 @@ Write your shellcode in Assembly (NASM) and compile it on Windows x64 with one c
 
 This script helps automate the shellcode development and testing process. It takes your Assembly file with the payload (`shellcode.asm`) and generates a bunch of useful executable files (read below).
 
-You don't have to repeat all these tedious activities anymore to make your shellcode executable! Keep your focus on shellcoding 🔥🐚🔥
+You don't have to repeat all these tedious activities anymore to make your shellcode executable! Keep your focus on shellcoding 
 
 ## Installation
 
